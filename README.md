@@ -2,16 +2,14 @@ Facebook-style Login and Register with Apache Tomcat and MySQL
 Here's a complete implementation of a Facebook-style authentication system using Java servlets with Apache Tomcat that stores user data in MySQL.
 
 
-----------------------------
-Prerequisites
+**Prerequisites**
 Apache Tomcat 9.x or later
 MySQL 8.x or later
 Java JDK 11 or later
 Maven for dependency management
 
----------------------------------
-------**
-Database setup**-------
+**Database setup**
+
 CREATE DATABASE social_auth;
 USE social_auth;
 
@@ -34,7 +32,7 @@ CREATE TABLE sessions (
     expires_at TIMESTAMP NOT NULL,
     FOREIGN KEY (user_id) REFERENCES users(id)
 );
------------------------------
+
 
 Update database details in below file
 

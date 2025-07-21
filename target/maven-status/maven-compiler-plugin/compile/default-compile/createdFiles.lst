@@ -1,0 +1,7 @@
+com/example/auth/UserService.class
+com/example/auth/LoginServlet.class
+com/example/auth/LogoutServlet.class
+com/example/model/User.class
+com/example/auth/AuthenticationFilter.class
+com/example/auth/RegisterServlet.class
+com/example/auth/DatabaseConnection.class

@@ -39,5 +39,5 @@ Update database details in below file
 /src/main/java/com/example/auth/DatabaseConnection.java
 
 final output-----ROOT.war
-deploy on tomcat
+deploy on tomcat inside in webapps folder.
 

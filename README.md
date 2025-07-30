@@ -41,7 +41,8 @@ Update database details in below file
 
 final output-----ROOT.war
 
-deploy war file in tomcat webapp folder
+deploy war file in tomcat webapp folder and 
+check output on browser.
 
 
 

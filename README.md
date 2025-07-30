@@ -40,4 +40,5 @@ Update database details in below file
 
 final output-----ROOT.war
 deploy on tomcat inside in webapps folder.
+check on browser with 8080 port.
 
